@@ -1,0 +1,5 @@
+milk
+meat
+wine
+box
+buttle
